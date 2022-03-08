@@ -1,0 +1,18 @@
+/* Created by Prateek Gupta */
+
+/* Created by Prateek Gupta */
+
+body{
+    background:radial-gradient(circle,rgb(228, 63, 63),#1dcfcf);
+}
+p,h1{
+    color: #1d3ecf;
+    background-color: rgb(235, 62, 62);
+}
+ul{
+    background-color: aqua;
+}
+.header{
+    color: yellowgreen;
+    background-color: black;
+}
